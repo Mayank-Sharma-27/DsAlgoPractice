@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class DetectCycleInDirectedGraph {
     static boolean isCyclic(ArrayList<ArrayList<Integer>> adj, int V)
     {
-        boolean visited[] = new boolean[V];
-        boolean traversed[] = new boolean[V];
+        boolean[] visited = new boolean[V];
+        boolean[] traversed = new boolean[V];
 
         for(int i =0;i<V;i++){
             if(cyclic(i,visited,traversed,adj)){
