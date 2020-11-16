@@ -14,10 +14,9 @@ public class DetectCycleInDirectedGraph {
             }
         }
         return false;
-
     }
 
-    static boolean cyclic(int node,boolean visited[],boolean traversed[],ArrayList<ArrayList<Integer>> adj){
+    static boolean cyclic(int node, boolean[] visited, boolean[] traversed, ArrayList<ArrayList<Integer>> adj){
 
         if(traversed[node]){
             return true;
