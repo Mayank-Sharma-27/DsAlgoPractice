@@ -2,7 +2,7 @@ package main.java;
 
 
 public class TreeNode {
-    int val;
+    public int val;
     public TreeNode left;
 
     public void setVal(int val) {
