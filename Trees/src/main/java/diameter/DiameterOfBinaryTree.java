@@ -1,6 +1,8 @@
 package main.java.diameter;
 
 
+import main.java.TreeNode;
+
 // problem link : https://leetcode.com/problems/diameter-of-binary-tree/
 public class DiameterOfBinaryTree {
     int res = 0;
@@ -24,22 +26,4 @@ public class DiameterOfBinaryTree {
         return temp;
     }
 
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 }
