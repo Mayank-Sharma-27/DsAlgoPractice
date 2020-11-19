@@ -1,4 +1,4 @@
-package main.java;
+package questions;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

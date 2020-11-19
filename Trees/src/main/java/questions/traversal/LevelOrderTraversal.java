@@ -1,6 +1,6 @@
-package level.order.traversal;
+package questions.traversal;
 
-import main.java.TreeNode;
+import questions.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

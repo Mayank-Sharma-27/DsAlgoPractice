@@ -1,6 +1,7 @@
-package maximuum.path.sum;
+package questions.sum;
 
-import main.java.TreeNode;
+
+import questions.TreeNode;
 
 // problem link : https://leetcode.com/problems/binary-tree-maximum-path-sum/
 public class FindMaximumPathSum {
@@ -15,11 +16,11 @@ public class FindMaximumPathSum {
         if (root == null) {
             return 0;
         }
-        int l = solve(root.left);
-        int r = solve(root.right);
+        int l = solve(root.getLeft());
+        int r = solve(root.getRight());
 
-        int temp = Math.max(Math.max(r, l) + root.val, root.val);
-        int ans = Math.max(temp, l + r + root.val);
+        int temp = Math.max(Math.max(r, l) + root.getVal(), root.getVal());
+        int ans = Math.max(temp, l + r + root.getVal());
         res = Math.max(ans, res);
         return temp;
     }

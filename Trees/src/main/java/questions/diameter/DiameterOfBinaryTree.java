@@ -1,7 +1,7 @@
-package diameter;
+package questions.diameter;
 
 
-import main.java.TreeNode;
+import questions.TreeNode;
 
 // problem link : https://leetcode.com/problems/diameter-of-binary-tree/
 public class DiameterOfBinaryTree {
