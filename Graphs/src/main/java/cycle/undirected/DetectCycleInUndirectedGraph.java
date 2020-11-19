@@ -1,4 +1,4 @@
-package main.java.cycle.undirected;
+package cycle.undirected;
 
 import java.util.ArrayList;
 import java.util.Arrays;

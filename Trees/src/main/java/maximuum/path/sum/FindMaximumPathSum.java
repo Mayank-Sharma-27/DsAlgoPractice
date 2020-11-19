@@ -1,4 +1,4 @@
-package main.java.maximuum.path.sum;
+package maximuum.path.sum;
 
 import main.java.TreeNode;
 

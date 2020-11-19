@@ -1,4 +1,4 @@
-package main.java.cycle.directed;
+package cycle.directed;
 
 import java.util.ArrayList;
 

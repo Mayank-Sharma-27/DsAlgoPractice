@@ -1,4 +1,4 @@
-package main.java.diameter;
+package diameter;
 
 
 import main.java.TreeNode;
