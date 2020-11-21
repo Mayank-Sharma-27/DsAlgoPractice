@@ -7,13 +7,27 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Trees" />
+        <module name="Heaps" />
+        <module name="BinarySearch" />
         <module name="Graphs" />
-        <module name="DsAlgo" />
+        <module name="Stacks" />
+        <module name="Recursion" />
+        <module name="Greedy" />
+        <module name="Strings" />
+        <module name="LinkedList" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BinarySearch" target="1.5" />
       <module name="DsAlgo" target="1.5" />
       <module name="Graphs" target="1.5" />
+      <module name="Greed" target="1.5" />
+      <module name="Greedy" target="8" />
+      <module name="Heaps" target="8" />
+      <module name="LinkedList" target="1.5" />
+      <module name="Recursion" target="1.5" />
+      <module name="Stacks" target="1.5" />
+      <module name="Strings" target="1.5" />
       <module name="Trees" target="1.5" />
     </bytecodeTargetLevel>
   </component>

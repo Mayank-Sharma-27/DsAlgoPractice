@@ -6,10 +6,18 @@
 
     <groupId>groupId</groupId>
     <artifactId>DsAlgo</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Graphs</module>
         <module>Trees</module>
+        <module>Heaps</module>
+        <module>Greedy</module>
+        <module>BinarySearch</module>
+        <module>Strings</module>
+        <module>Stacks</module>
+        <module>LinkedList</module>
+        <module>Recuusion</module>
     </modules>
 
     <properties>
