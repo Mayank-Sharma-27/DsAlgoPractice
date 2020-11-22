@@ -12,6 +12,7 @@
         <module name="Graphs" />
         <module name="Stacks" />
         <module name="Recursion" />
+        <module name="DP" />
         <module name="Greedy" />
         <module name="Strings" />
         <module name="LinkedList" />
@@ -19,6 +20,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="BinarySearch" target="1.5" />
+      <module name="DP" target="1.5" />
       <module name="DsAlgo" target="1.5" />
       <module name="Graphs" target="1.5" />
       <module name="Greed" target="1.5" />

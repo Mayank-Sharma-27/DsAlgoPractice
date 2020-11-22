@@ -18,6 +18,7 @@
         <module>Stacks</module>
         <module>LinkedList</module>
         <module>Recuusion</module>
+        <module>DP</module>
     </modules>
 
     <properties>
