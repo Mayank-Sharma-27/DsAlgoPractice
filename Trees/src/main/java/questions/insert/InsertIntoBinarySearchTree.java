@@ -2,6 +2,7 @@ package questions.insert;
 
 import questions.TreeNode;
 
+//problem link : https://leetcode.com/problems/insert-into-a-binary-search-tree/
 public class InsertIntoBinarySearchTree {
 
     public TreeNode insertIntoBST(TreeNode root, int val) {
