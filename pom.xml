@@ -19,6 +19,7 @@
         <module>LinkedList</module>
         <module>Recuusion</module>
         <module>DP</module>
+        <module>SlidingWindow</module>
     </modules>
 
     <properties>

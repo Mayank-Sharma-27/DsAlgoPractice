@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Trees" />
+        <module name="SlidingWindow" />
         <module name="Heaps" />
         <module name="BinarySearch" />
         <module name="Graphs" />
@@ -28,6 +29,7 @@
       <module name="Heaps" target="8" />
       <module name="LinkedList" target="1.5" />
       <module name="Recursion" target="1.5" />
+      <module name="SlidingWindow" target="1.5" />
       <module name="Stacks" target="1.5" />
       <module name="Strings" target="1.5" />
       <module name="Trees" target="1.5" />
