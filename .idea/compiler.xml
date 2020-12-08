@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Trees" />
+        <module name="Array" />
         <module name="SlidingWindow" />
         <module name="Heaps" />
         <module name="BinarySearch" />
@@ -20,6 +21,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Array" target="1.5" />
       <module name="BinarySearch" target="1.5" />
       <module name="DP" target="1.5" />
       <module name="DsAlgo" target="1.5" />
