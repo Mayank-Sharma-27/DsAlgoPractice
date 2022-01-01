@@ -8,7 +8,7 @@ public class FindPeakElement {
         if(n==1){
             return 0;
         }
-
+//add comment to test
         int start =0;
         int end = n-1;
         while(start<=end){
