@@ -14,7 +14,6 @@
         <module name="Heaps" />
         <module name="Trees" />
         <module name="Greedy" />
-        <module name="LeetcodeMonthly" />
         <module name="BinarySearch" />
         <module name="LinkedList" />
         <module name="Recursion" />

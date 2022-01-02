@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>DsAlgo</artifactId>
+    <artifactId>DsAlgoPractice</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -21,7 +21,6 @@
         <module>DP</module>
         <module>SlidingWindow</module>
         <module>Array</module>
-        <module>LeetcodeMonthly</module>
     </modules>
 
     <properties>
