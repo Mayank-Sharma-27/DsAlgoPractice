@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DsAlgo.iml" filepath="$PROJECT_DIR$/DsAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graphs/src/Graphs1.iml" filepath="$PROJECT_DIR$/Graphs/src/Graphs1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Heaps/Heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodeMonthly/LeetcodeMonthly.iml" filepath="$PROJECT_DIR$/LeetcodeMonthly/LeetcodeMonthly.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" filepath="$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" />

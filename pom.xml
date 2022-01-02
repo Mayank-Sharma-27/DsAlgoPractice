@@ -17,10 +17,11 @@
         <module>Strings</module>
         <module>Stacks</module>
         <module>LinkedList</module>
-        <module>Recuusion</module>
+        <module>Recursion</module>
         <module>DP</module>
         <module>SlidingWindow</module>
         <module>Array</module>
+        <module>LeetcodeMonthly</module>
     </modules>
 
     <properties>
